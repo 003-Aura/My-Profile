@@ -1,7 +1,6 @@
 # My-Profile
 # 👋 My Profile — Aura Illa Sari
 
-![Foto Aura](biodata/Foto.jpg.jpeg)
 
 ## 👩‍💻 Tentang Saya
 
