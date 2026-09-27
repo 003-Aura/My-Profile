@@ -33,7 +33,7 @@ Project ini merupakan sistem yang dibuat untuk membantu pengelolaan organisasi m
 
 ## 🌐 Biodata Lengkap
 
-👉 [Lihat Biodata Lengkap](biodata/)
+👉 [Lihat Biodata Lengkap](https://003-aura.github.io/My-Profile/biodata)
 
 ## 🎥 Video P1
 
