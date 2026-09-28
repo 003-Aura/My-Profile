@@ -37,7 +37,7 @@ Project ini dibuat untuk membantu pengelolaan organisasi mahasiswa HIMA.
 
 ## 🎥 Video P1
 
-👉 [Lihat Video P1](ISI_LINK_VIDEO_P1_DI_SINI)
+👉 [Lihat Video P1](https://youtu.be/lGgP_dpzffc?si=8mU8WFm3q3Me17r8)
 
 ## 📁 Repository
 
