@@ -29,7 +29,7 @@ Saya adalah mahasiswa **Program Studi Informatika, Universitas Madura**, angkata
 
 ### Sistem Manajemen Organisasi Mahasiswa HIMA
 
-Project ini merupakan sistem yang dibuat untuk membantu pengelolaan organisasi mahasiswa HIMA.
+Project ini dibuat untuk membantu pengelolaan organisasi mahasiswa HIMA.
 
 ## 🌐 Biodata Lengkap
 
