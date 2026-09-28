@@ -41,7 +41,7 @@ Project ini merupakan sistem yang dibuat untuk membantu pengelolaan organisasi m
 
 ## 📁 Repository
 
-Repository ini dibuat sebagai **My Profile** untuk tugas P1 Pemrograman Platform.
+Repository ini digunakan untuk tugas P1 Pemrograman Platform.
 
 ---
 
